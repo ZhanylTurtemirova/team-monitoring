@@ -1,0 +1,50 @@
+{
+  "onduty": [
+    {
+     "team_name":"comedian-testing",
+     "team_id":"TFREGJ268",
+     "channel":"GHH297F8F",
+     "members_order":"u1 u2 u3",
+     "algorithm":2,
+     "current_onduty":"u1",
+     "notification_time":"12:22",
+     "language":"ru_RU",
+     "bot_access_token":"bot_access_token"
+    },
+    {
+     "team_name":"comedian-testing",
+     "team_id":"TFREGJ268",
+     "channel":"channel",
+     "members_order":"u1 u2 u3",
+     "algorithm":2,
+     "current_onduty":"u1",
+     "notification_time":"21:00",
+     "language":"ru_RU",
+     "bot_access_token":"bot_access_token"
+    }    
+  ],
+  "reports": [
+    {
+      "id": 0,
+      "report_time": "10:00",
+      "reporting_channel": "CGPFD161K",
+      "team_name": "comedian-testing",
+      "team_id": "CEPXD1F1T",
+      "individual_report_status": true,
+      "language": "en_US",
+      "collector_enabled": true,
+      "bot_access_token": "xoxb-fklsdjflksd"
+    },
+    {
+      "id": 0,
+      "report_time": "10:00",
+      "reporting_channel": "CGPFD161K",
+      "team_name": "comedian-testing",
+      "team_id": "CEPXD1F1T",
+      "individual_report_status": true,
+      "language": "en_US",
+      "collector_enabled": true,
+      "bot_access_token": "xoxb-fklsdjflksd"
+    }
+  ]
+}
